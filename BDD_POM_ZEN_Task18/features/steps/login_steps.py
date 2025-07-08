@@ -146,5 +146,5 @@ def validate_logout(context):
 # allure generate reports/ -o html-report --clean
 
 # To open HTML report in browser:
-# allure open html-report
+# allure open html-report/
         
